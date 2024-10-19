@@ -1,3 +1,7 @@
+"""
+Author:Noel Shaji
+Date:19-10-2024
+Description:Program that Create, concatenate, and print a string and access a sub-string from a given string.
 str_1=(input("Enter your first  name"))
 str_2=(input("Enter your last name"))
 str_3=(str_1+" "+str_2)
