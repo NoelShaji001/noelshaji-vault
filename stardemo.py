@@ -2,7 +2,7 @@ print("INCREASED STAR PATTERN")
 for i in range(6):
     for j in range(i,i+1):
         print(j*"*")
-print("DECREASED STAR PATTERN")
+print("REVERSE STAR PATTERN")
 
 for i in range(6,1,-1):
     for j in range(i-1,i):
